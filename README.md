@@ -1,4 +1,4 @@
-# Blinkit-Business-Dashboard-using-Power-BI-main
+# Blinkit-Business-Dashboard-using-EXCEL-main
 
 This repository contains a Power BI project designed to analyze and visualize business data for Blinkit, an online grocery delivery platform. The dashboard provides actionable insights into key metrics, including sales performance, order trends, customer behavior, and regional analysis.
 
